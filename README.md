@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rehan-akhtar
 - 👀 I’m interested in learning full-stack development
-- 🌱 I’m currently learning html,css,java script
-- 💞️ I’m looking to collaborate on small java script project
+- 🌱 I’m currently learning HTML, CSS, and javascript
+- 💞️ I’m looking to collaborate on a small javascript project
 - 📫 How to reach me rehan.akhtar10@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
